@@ -1,0 +1,12 @@
+D:\SoftUniProjects\OddorEvenIntegers\BitwiseExtractBit3\bin\Debug\BitwiseExtractBit3.exe.config
+D:\SoftUniProjects\OddorEvenIntegers\BitwiseExtractBit3\bin\Debug\BitwiseExtractBit3.exe
+D:\SoftUniProjects\OddorEvenIntegers\BitwiseExtractBit3\bin\Debug\BitwiseExtractBit3.pdb
+D:\SoftUniProjects\OddorEvenIntegers\BitwiseExtractBit3\obj\Debug\BitwiseExtractBit3.csprojResolveAssemblyReference.cache
+D:\SoftUniProjects\OddorEvenIntegers\BitwiseExtractBit3\obj\Debug\BitwiseExtractBit3.exe
+D:\SoftUniProjects\OddorEvenIntegers\BitwiseExtractBit3\obj\Debug\BitwiseExtractBit3.pdb
+D:\SoftUniProjects\Lesson5homework\BitwiseExtractBit3\bin\Debug\BitwiseExtractBit3.exe.config
+D:\SoftUniProjects\Lesson5homework\BitwiseExtractBit3\obj\Debug\BitwiseExtractBit3.exe
+D:\SoftUniProjects\Lesson5homework\BitwiseExtractBit3\obj\Debug\BitwiseExtractBit3.pdb
+D:\SoftUniProjects\Lesson5homework\BitwiseExtractBit3\bin\Debug\BitwiseExtractBit3.exe
+D:\SoftUniProjects\Lesson5homework\BitwiseExtractBit3\bin\Debug\BitwiseExtractBit3.pdb
+D:\SoftUniProjects\Lesson5homework\BitwiseExtractBit3\obj\Debug\BitwiseExtractBit3.csprojResolveAssemblyReference.cache

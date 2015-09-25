@@ -1,0 +1,6 @@
+D:\SoftUniProjects\OddorEvenIntegers\PointInACircle\bin\Debug\PointInACircle.exe.config
+D:\SoftUniProjects\OddorEvenIntegers\PointInACircle\bin\Debug\PointInACircle.exe
+D:\SoftUniProjects\OddorEvenIntegers\PointInACircle\bin\Debug\PointInACircle.pdb
+D:\SoftUniProjects\OddorEvenIntegers\PointInACircle\obj\Debug\PointInACircle.csprojResolveAssemblyReference.cache
+D:\SoftUniProjects\OddorEvenIntegers\PointInACircle\obj\Debug\PointInACircle.exe
+D:\SoftUniProjects\OddorEvenIntegers\PointInACircle\obj\Debug\PointInACircle.pdb

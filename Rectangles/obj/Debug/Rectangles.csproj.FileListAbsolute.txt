@@ -1,0 +1,5 @@
+D:\SoftUniProjects\OddorEvenIntegers\Rectangles\bin\Debug\Rectangles.exe.config
+D:\SoftUniProjects\OddorEvenIntegers\Rectangles\bin\Debug\Rectangles.exe
+D:\SoftUniProjects\OddorEvenIntegers\Rectangles\bin\Debug\Rectangles.pdb
+D:\SoftUniProjects\OddorEvenIntegers\Rectangles\obj\Debug\Rectangles.exe
+D:\SoftUniProjects\OddorEvenIntegers\Rectangles\obj\Debug\Rectangles.pdb

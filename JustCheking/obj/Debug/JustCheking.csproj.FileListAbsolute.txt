@@ -1,0 +1,6 @@
+D:\SoftUniProjects\OddorEvenIntegers\JustCheking\bin\Debug\JustCheking.exe.config
+D:\SoftUniProjects\OddorEvenIntegers\JustCheking\bin\Debug\JustCheking.exe
+D:\SoftUniProjects\OddorEvenIntegers\JustCheking\bin\Debug\JustCheking.pdb
+D:\SoftUniProjects\OddorEvenIntegers\JustCheking\obj\Debug\JustCheking.exe
+D:\SoftUniProjects\OddorEvenIntegers\JustCheking\obj\Debug\JustCheking.pdb
+D:\SoftUniProjects\OddorEvenIntegers\JustCheking\obj\Debug\JustCheking.csprojResolveAssemblyReference.cache

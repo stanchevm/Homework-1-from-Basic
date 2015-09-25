@@ -1,0 +1,6 @@
+D:\SoftUniProjects\OddorEvenIntegers\DivideB7And5\bin\Debug\DivideB7And5.exe.config
+D:\SoftUniProjects\OddorEvenIntegers\DivideB7And5\bin\Debug\DivideB7And5.exe
+D:\SoftUniProjects\OddorEvenIntegers\DivideB7And5\bin\Debug\DivideB7And5.pdb
+D:\SoftUniProjects\OddorEvenIntegers\DivideB7And5\obj\Debug\DivideB7And5.exe
+D:\SoftUniProjects\OddorEvenIntegers\DivideB7And5\obj\Debug\DivideB7And5.pdb
+D:\SoftUniProjects\OddorEvenIntegers\DivideB7And5\obj\Debug\DivideB7And5.csprojResolveAssemblyReference.cache

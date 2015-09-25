@@ -1,0 +1,6 @@
+D:\SoftUniProjects\OddorEvenIntegers\FourDigitNumber\bin\Debug\FourDigitNumber.exe.config
+D:\SoftUniProjects\OddorEvenIntegers\FourDigitNumber\bin\Debug\FourDigitNumber.exe
+D:\SoftUniProjects\OddorEvenIntegers\FourDigitNumber\bin\Debug\FourDigitNumber.pdb
+D:\SoftUniProjects\OddorEvenIntegers\FourDigitNumber\obj\Debug\FourDigitNumber.csprojResolveAssemblyReference.cache
+D:\SoftUniProjects\OddorEvenIntegers\FourDigitNumber\obj\Debug\FourDigitNumber.exe
+D:\SoftUniProjects\OddorEvenIntegers\FourDigitNumber\obj\Debug\FourDigitNumber.pdb

@@ -1,0 +1,6 @@
+D:\SoftUniProjects\OddorEvenIntegers\Lesson5HomeWork\bin\Debug\Lesson5HomeWork.exe.config
+D:\SoftUniProjects\OddorEvenIntegers\Lesson5HomeWork\obj\Debug\Lesson5HomeWork.csprojResolveAssemblyReference.cache
+D:\SoftUniProjects\OddorEvenIntegers\Lesson5HomeWork\bin\Debug\Lesson5HomeWork.exe
+D:\SoftUniProjects\OddorEvenIntegers\Lesson5HomeWork\bin\Debug\Lesson5HomeWork.pdb
+D:\SoftUniProjects\OddorEvenIntegers\Lesson5HomeWork\obj\Debug\Lesson5HomeWork.exe
+D:\SoftUniProjects\OddorEvenIntegers\Lesson5HomeWork\obj\Debug\Lesson5HomeWork.pdb

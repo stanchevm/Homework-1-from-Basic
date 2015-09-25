@@ -1,0 +1,6 @@
+D:\SoftUniProjects\OddorEvenIntegers\ThirdDigitIs7\bin\Debug\ThirdDigitIs7.exe.config
+D:\SoftUniProjects\OddorEvenIntegers\ThirdDigitIs7\bin\Debug\ThirdDigitIs7.exe
+D:\SoftUniProjects\OddorEvenIntegers\ThirdDigitIs7\bin\Debug\ThirdDigitIs7.pdb
+D:\SoftUniProjects\OddorEvenIntegers\ThirdDigitIs7\obj\Debug\ThirdDigitIs7.exe
+D:\SoftUniProjects\OddorEvenIntegers\ThirdDigitIs7\obj\Debug\ThirdDigitIs7.pdb
+D:\SoftUniProjects\OddorEvenIntegers\ThirdDigitIs7\obj\Debug\ThirdDigitIs7.csprojResolveAssemblyReference.cache

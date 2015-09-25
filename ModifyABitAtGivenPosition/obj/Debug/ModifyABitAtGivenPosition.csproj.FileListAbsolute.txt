@@ -1,0 +1,9 @@
+D:\SoftUniProjects\OddorEvenIntegers\ModifyABitAtGivenPosition\bin\Debug\ModifyABitAtGivenPosition.exe.config
+D:\SoftUniProjects\OddorEvenIntegers\ModifyABitAtGivenPosition\bin\Debug\ModifyABitAtGivenPosition.exe
+D:\SoftUniProjects\OddorEvenIntegers\ModifyABitAtGivenPosition\bin\Debug\ModifyABitAtGivenPosition.pdb
+D:\SoftUniProjects\OddorEvenIntegers\ModifyABitAtGivenPosition\obj\Debug\ModifyABitAtGivenPosition.csprojResolveAssemblyReference.cache
+D:\SoftUniProjects\OddorEvenIntegers\ModifyABitAtGivenPosition\obj\Debug\ModifyABitAtGivenPosition.exe
+D:\SoftUniProjects\OddorEvenIntegers\ModifyABitAtGivenPosition\obj\Debug\ModifyABitAtGivenPosition.pdb
+D:\SoftUniProjects\Lesson5homework\ModifyABitAtGivenPosition\bin\Debug\ModifyABitAtGivenPosition.exe.config
+D:\SoftUniProjects\Lesson5homework\ModifyABitAtGivenPosition\obj\Debug\ModifyABitAtGivenPosition.exe
+D:\SoftUniProjects\Lesson5homework\ModifyABitAtGivenPosition\obj\Debug\ModifyABitAtGivenPosition.pdb

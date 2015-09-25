@@ -1,0 +1,6 @@
+D:\SoftUniProjects\OddorEvenIntegers\GravitationOnTheMoon\bin\Debug\GravitationOnTheMoon.exe.config
+D:\SoftUniProjects\OddorEvenIntegers\GravitationOnTheMoon\bin\Debug\GravitationOnTheMoon.exe
+D:\SoftUniProjects\OddorEvenIntegers\GravitationOnTheMoon\bin\Debug\GravitationOnTheMoon.pdb
+D:\SoftUniProjects\OddorEvenIntegers\GravitationOnTheMoon\obj\Debug\GravitationOnTheMoon.exe
+D:\SoftUniProjects\OddorEvenIntegers\GravitationOnTheMoon\obj\Debug\GravitationOnTheMoon.pdb
+D:\SoftUniProjects\OddorEvenIntegers\GravitationOnTheMoon\obj\Debug\GravitationOnTheMoon.csprojResolveAssemblyReference.cache

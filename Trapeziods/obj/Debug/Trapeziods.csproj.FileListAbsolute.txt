@@ -1,0 +1,6 @@
+D:\SoftUniProjects\OddorEvenIntegers\Trapeziods\bin\Debug\Trapeziods.exe.config
+D:\SoftUniProjects\OddorEvenIntegers\Trapeziods\bin\Debug\Trapeziods.exe
+D:\SoftUniProjects\OddorEvenIntegers\Trapeziods\bin\Debug\Trapeziods.pdb
+D:\SoftUniProjects\OddorEvenIntegers\Trapeziods\obj\Debug\Trapeziods.csprojResolveAssemblyReference.cache
+D:\SoftUniProjects\OddorEvenIntegers\Trapeziods\obj\Debug\Trapeziods.exe
+D:\SoftUniProjects\OddorEvenIntegers\Trapeziods\obj\Debug\Trapeziods.pdb

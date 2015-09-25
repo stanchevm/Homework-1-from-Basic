@@ -1,0 +1,8 @@
+D:\SoftUniProjects\OddorEvenIntegers\CheckABitAtGivenPosition\bin\Debug\CheckABitAtGivenPosition.exe.config
+D:\SoftUniProjects\OddorEvenIntegers\CheckABitAtGivenPosition\bin\Debug\CheckABitAtGivenPosition.exe
+D:\SoftUniProjects\OddorEvenIntegers\CheckABitAtGivenPosition\bin\Debug\CheckABitAtGivenPosition.pdb
+D:\SoftUniProjects\OddorEvenIntegers\CheckABitAtGivenPosition\obj\Debug\CheckABitAtGivenPosition.exe
+D:\SoftUniProjects\OddorEvenIntegers\CheckABitAtGivenPosition\obj\Debug\CheckABitAtGivenPosition.pdb
+D:\SoftUniProjects\Lesson5homework\CheckABitAtGivenPosition\bin\Debug\CheckABitAtGivenPosition.exe.config
+D:\SoftUniProjects\Lesson5homework\CheckABitAtGivenPosition\obj\Debug\CheckABitAtGivenPosition.exe
+D:\SoftUniProjects\Lesson5homework\CheckABitAtGivenPosition\obj\Debug\CheckABitAtGivenPosition.pdb

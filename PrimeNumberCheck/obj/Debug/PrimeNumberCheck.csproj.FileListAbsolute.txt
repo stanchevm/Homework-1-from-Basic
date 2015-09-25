@@ -1,0 +1,6 @@
+D:\SoftUniProjects\OddorEvenIntegers\PrimeNumberCheck\bin\Debug\PrimeNumberCheck.exe.config
+D:\SoftUniProjects\OddorEvenIntegers\PrimeNumberCheck\bin\Debug\PrimeNumberCheck.exe
+D:\SoftUniProjects\OddorEvenIntegers\PrimeNumberCheck\bin\Debug\PrimeNumberCheck.pdb
+D:\SoftUniProjects\OddorEvenIntegers\PrimeNumberCheck\obj\Debug\PrimeNumberCheck.csprojResolveAssemblyReference.cache
+D:\SoftUniProjects\OddorEvenIntegers\PrimeNumberCheck\obj\Debug\PrimeNumberCheck.exe
+D:\SoftUniProjects\OddorEvenIntegers\PrimeNumberCheck\obj\Debug\PrimeNumberCheck.pdb

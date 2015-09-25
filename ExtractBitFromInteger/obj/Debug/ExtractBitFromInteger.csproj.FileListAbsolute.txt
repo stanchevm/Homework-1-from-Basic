@@ -1,0 +1,5 @@
+D:\SoftUniProjects\OddorEvenIntegers\ExtractBitFromInteger\bin\Debug\ExtractBitFromInteger.exe.config
+D:\SoftUniProjects\OddorEvenIntegers\ExtractBitFromInteger\bin\Debug\ExtractBitFromInteger.exe
+D:\SoftUniProjects\OddorEvenIntegers\ExtractBitFromInteger\bin\Debug\ExtractBitFromInteger.pdb
+D:\SoftUniProjects\OddorEvenIntegers\ExtractBitFromInteger\obj\Debug\ExtractBitFromInteger.exe
+D:\SoftUniProjects\OddorEvenIntegers\ExtractBitFromInteger\obj\Debug\ExtractBitFromInteger.pdb
